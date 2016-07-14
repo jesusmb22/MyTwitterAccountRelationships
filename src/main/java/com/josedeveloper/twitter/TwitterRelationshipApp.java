@@ -1,4 +1,4 @@
-package com.josedeveloper.twitter.myFirstTwitterApp;
+package com.josedeveloper.twitter;
 
 import java.io.File;
 import java.io.IOException;
